@@ -8,6 +8,7 @@
               <span class="teal-text">{{message.name}}</span>
               <span class="grey-text text-darken-3">{{message.content}}</span>
               <span class="grey-text time">{{message.timestamp}}</span>
+              <span>salih</span>
           </li>
         </ul>
       </div>
